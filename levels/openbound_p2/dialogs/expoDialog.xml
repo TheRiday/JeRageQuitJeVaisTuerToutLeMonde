@@ -1,0 +1,121 @@
+<sburb description='exposition dialogs'>
+	<classes>
+		<action class='expoTalk0' command='talk' name='Demande à Aranea où en est sa Chérubinquest.'>
+      <args>
+      @aranea_surprised ARANEA: Je...
+      @aranea_think ARANEA: Ne l’ai pas encore tout à fait trouvée.
+      @meenah_idle MEENAH: des indices ou
+      @aranea_idle ARANEA: Pas vraiment.
+      @aranea_talk ARANEA: Elle est apparemment très 8ien cachée !
+      @meenah_idle MEENAH: heu ouais surement
+      @meenah_idle MEENAH: mais
+      @meenah_talk MEENAH: est ce que tes vraiment allee chercher
+      @aranea_idle ARANEA: Hum...
+      @meenah_happytalk MEENAH: ou ta juste poissee ton temps a rien foutre avec ton ptit stand
+      @aranea_annoyedtalk ARANEA: J’ai divisé mon temps efficacement. Mais merci d’avoir demandé.
+      @meenah_talk MEENAH: en plus ce netait pas il y a si longtemps la derniere fois quon a parle dautres trucs ennuyeux
+      @meenah_talk MEENAH: tas meme du trimbuller ce stand en haut de cet arbre
+      @meenah_talk MEENAH: genre en attendant bien mon arrivee de la haut
+      @meenah_fish MEENAH: combien de temps ca tas pris 
+      @aranea_angrytalk ARANEA: Ce n’est pas important !
+      @aranea_madtalk ARANEA: Et oui, je me suis arrêtée en chemin pour expliquer des trucs importants aux gens.
+      @aranea_annoyedtalk ARANEA: Les gens sont friands d’informations, Meenah. Ils veulent CONNAÎTRE des choses, d’accord ?
+      @meenah_idle MEENAH: ils veulent savoir...
+      @meenah_happy MEENAH: ou tu veux leur dire ?
+      @aranea_angry ARANEA: Les deux !!!!!!!!
+      @meenah_idle MEENAH: ok laisse moi te demander
+      @meenah_talk MEENAH: est ce que tu les payes pour que tu puisses expliquer des trucs
+      @aranea_annoyed ARANEA: ...
+      @aranea_annoyed ARANEA: Oui.
+      @aranea_facepalm ARANEA: ET ????????
+      @meenah_annoyedtalk MEENAH: donc dans ton planning a combien tu estimerais le temps passe a chercher des cherubins
+      @aranea_annoyed ARANEA: Je...
+      @aranea_madtalk ARANEA: Écoute. Trouver ce chéru8in allait forcément être une quête longue à en mourir. C’est un mystère complexe et entremêlé qui ne peut pas être résolu précipitamment. J’y travaille !!!!!!!!
+      @meenah_talk MEENAH: aranea serket jai quelque chose a te dire gratuitement
+      @meenah_happytalk MEENAH: je trouve que ton approche humoristiquement inefficace de cette quete est juste trop adorable
+      @aranea_facepalm ARANEA: 
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+
+<action class='expoTalk1' command='talk' name='Parle-moi de Cronus Ampora.'>
+      <args>
+      @aranea_happytalk ARANEA: Le 8arde de l’Espoir peut sem8ler un peu 8lasé ces jours-ci, mais il a autrefois eu une foi profondément dura8le en la magie, et s’était voué à devenir un grand sorcier. Il était convaincu qu’il avait éclos pour vaincre un magicien dia8olique, il jurait que les anges l'avaient prédit. Mais quand on insistait pour connaître le nom de cette personne, il refusait de le dire, affirmant que c’était trop dangereux ne serait-ce que de le prononcer. Une partie de son mythe auto-glorificateur contait que ce magicien tenta de l’a8attre à distance lors de son plus jeune âge, pour qu’il n'ait jamais à devoir l’affronter. Mais le sort maléfique fut dévié, scellant l’esprit du magicien ailleurs, dans plusieurs modestes réceptacles, jusqu'à ce qu’il puisse trouver d’autres ruses pour entrer dans notre univers. L’attaque lui a soi-disant laissé sa remarqua8le cicatrice, qu’il n’hésite pas à me montrer quand il essaie de me draguer. Euh, je veux dire, il n’hésite pas à la mentionner lors de ses conversations ordinaires.
+      @aranea_happytalk ARANEA: Mais un jour, il s’est désillusionné de la magie. Si jamais il y avait eu une part de vérité dans son histoire à dormir de8out, sa destinée de vaincre le magicien dia8olique aurait été transmise en héritage à son descendant, ou si son descendant se révélait être le même échec qu’il l’a été, alors l’aurait-elle été à d’autres Héros de l’Espoir. Je ne suis pas sûre de ce qui a causé cette perte de foi, mis à part les raisons évidentes liées à son manque total de personnalité, ou toute autre qualité rédemptrice. Peut-être que quelqu’un l’a 8ousculé dans ses croyances. Peut-être un ami proche. Ou, si ses fantasmes tenaient la route, peut-être quelqu’un du côté du magicien dia8olique. Peu importe la cause, c’était pro8a8lement pour le mieux, puisque à peu près tous ceux ayant la moitié d’un ci8oulot pensaient que ce n’était qu’un tas d’a8surdités.
+      @meenah_talk MEENAH: serket pourquoi tu te sens eaubligee de detester les religions des autres
+      @meenah_fish MEENAH: tu sais pas que ce sont daussi gros tas didioties que toutes tes conneries spirituelles 
+      @aranea_surprised ARANEA: Mais je........
+      @aranea_think ARANEA: Oui, je pense que je suis allée trop loin.
+      @aranea_madtalk ARANEA: Désolée, j'essayais simplement de me moquer un peu avec toi d’une connaissance qui n’est appréciée par aucune de nous. Est-ce vraiment mal ? Pourquoi dois-tu profiter de chaque opportunité pour critiquer mes convictions personnelles ?
+      @aranea_annoyed ARANEA: Ce que tu peux être méchante des fois.
+      @meenah_idle MEENAH: je peux avoir mon fric maintenant
+      @aranea_angry ARANEA: Oui. Tiens.
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+<action class='expoTalk2' command='talk' name='Parle moi de Mituna Captor.'>
+      <args>
+      @aranea_happytalk ARANEA: L'Héritier du Destin fut autrefois un puissant psionique. Il avait le don de dou8le-vue, et avait de puissantes visions prophétiques à chaque fois qu’un avenir som8re était en jeu. Il avait 8eaucoup à dire quand il s’agissait de nous avertir de la fatalité et de la destruction qui nous attendait tous, mais personne ne le prenait vraiment au sérieux. Mais un jour il perdit toutes ses capacités quand il les suremploya violemment. Il est difficile d'o8tenir des précisions de sa part, mais il sem8lerait qu'il ait rassem8lé ses dernières forces pour accomplir un grand acte d'héroïsme, nous sauvant tous d’une menace imminente. Non seulement cet effort a, de façon permanente, détruit ses capacités psychiques, mais cela l’a aussi laissé comment dire… hum. Incohérent.
+      @meenah_talk MEENAH: ouais je me suis toujours demande ce qui etait arrive 
+      @meenah_talk MEENAH: quelquun a fini par decouvrir le fin mot de cette histoire ?
+      @aranea_talk ARANEA: Non. L’intégralité de l’accident est drapée de mystère. D’après ses témoignages limités et dispersés à propos de ce qui s’est passé, il sem8le très pro8a8le que Kurloz ait été avec lui à ce moment-là, en tant que seul témoin oculaire. Et 8ien évidemment, il est impossi8le d’avoir une seule information fia8le venant de lui. Je suppose que nous ne le saurons jamais, malheureusement.
+      @meenah_talk MEENAH: eh cetait plutot interessant en fait
+      @meenah_meenah_creepylaughidle MEENAH: ca valait VRAIM-ENT le coup de prendre largent que tu mas donne pour tavoir ecoutee
+      @aranea_happier ARANEA: 8ien d’accord ! ::::D
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+<action class='expoTalk3' command='talk' name='Parle-moi de Kurloz Makara.'>
+      <args>
+      @aranea_happytalk ARANEA: Le Prince de la Fureur était en fait plutôt 8avard jadis. Et ce jusqu’à ce qu’il fasse ce cauchemar qui a déclenché un incident étrange, après quoi il n’a plus jamais parlé. Il a fait une sorte de voeu de silence spirituel, qui, j’en suis sûre, était pro8a8lement lié à sa religion ésotérique. Par la suite il devint terri8lement énigmatique. Je n’ai jamais pu lui tirer les vers du nez, entre ses mimes am8igus et son penchant pour les énigmes. C’est très frustrant, surtout pour quelqu’un comme moi, qui a une passion pour rassem8ler autant de faits sur notre histoire que possi8le.
+      @aranea_annoyedtalk ARANEA: Je peux te confier un secret ? S'il te plaît ne le dit à personne, mais je ne peux vraiment pas supporter ce type.
+      @aranea_talk ARANEA: C’est pro8a8lement injuste pour lui car il est certainement quelqu’un de 8on et d’inoffensif. Mais quelque chose chez lui me donne un mauvais pressentiment. J’imagine qu’il m’arrive d’être un peu mesquine parfois.
+      @meenah_idle MEENAH: ouais...
+      @meenah_wut MEENAH: ouah serket
+      @meenah_annoyed MEENAH: ouah tes vraiement insoleante
+      @meenah_fish MEENAH: pauvre poisson clown
+      @aranea_angrytalk ARANEA: Attends un peu ! Il me sem8le me souvenir que tu as toi-même dit plus que quelques méchancetés dans son dos.
+      @meenah_creepy MEENAH: ouais je decornet il craint
+      @meenah_idle MEENAH: donc
+      @meenah_idle MEENAH: conversation terminee ?
+      @aranea_happy ARANEA: Oui.
+      @meenah_annoyed MEENAH: ka
+      @meenah_annoyed MEENAH: ching
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+
+
+
+<action class='expoTalk4' command='talk' name='Parle moi de Meulin Leijon.'>
+      <args>
+      @aranea_happytalk ARANEA: La Mage du Coeur comme tu le sais est une disciple enflammée des sciences romantiques. Elle a une réputation 8ien méritée en tant que faiseuse de miracle quand il s’agit de former des couples. Mais sa propre histoire romantique est ironiquement remplie de trou8les et de coeurs 8risés.
+      @aranea_happytalk ARANEA: 8ien avant que notre session commence, elle et Kurloz étaient engagés dans une relation de moitiespricité très aimante. Il sem8lait évident pour tout le monde qu’ils étaient faits l’un pour l’autre. Un jour, ils se sont endormis ensem8le. Kurloz a alors fait un cauchemar si terrifiant qu’il lâcha le son le plus épouvanta8le que l’on puisse imaginer. On aurait vraiment dit l’écho du Vast Honk lui-même. Le cri était tellement fort et horri8le que Meulin devint complètement sourde, et son ouïe n’est jamais revenue. Kurloz était indu8ita8lement dévasté par ce qu’il lui avait fait. Il était tellement égaré qu’il s’est cousu la 8ouche, et qu’il n’a plus dit un mot depuis.
+      @aranea_happytalk ARANEA: 8ien qu’ils ne soient plus moitiesprits, Meulin n’a jamais rejeté la faute sur lui, et elle sem8lait même prendre du plaisir à apprendre de nouvelles façons de communiquer. Ils sont restés très proches l’un de l’autre. Peut-être un peu trop proches, si tu veux mon avis. Il est clair que son opinion a été progressivement influencée au profit du culte du No8lesang. Elle reste discrète quant à ses croyances, mais çà et là, je remarque qu’elle laisse échapper quelques fragments de doctrine miraculeuse. Je suppose que je ne devrais pas trop m’en soucier, car il ne s’agit pro8a8lement que de quelques superstitions inoffensives.
+      @meenah_creepy MEENAH: )(ONK
+      @aranea_happier ARANEA: Honk honk ! ::::)
+      @meenah_happytalk MEENAH: mdr jsuis heureuse quon puisse se mettre daccord sur le fait que le culte du putain de soda clownesque est la merde la plus stupide de tous les temps
+      @aranea_happy ARANEA: Oui. Maintenant voilà ton argent. Merci d’avoir écouté !
+      @meenah_happytalk MEENAH: serk tu sais au moins a quel point zetes tous stupides
+      @meenah_happy MEENAH: &lt;3
+      <!--  -->
+      </args>
+      <action command='setGameState'>expo,true</action>
+</action>
+
+	</classes>
+</sburb>

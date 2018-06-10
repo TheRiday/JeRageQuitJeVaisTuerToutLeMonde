@@ -1,0 +1,142 @@
+<sburb description='meulin dialogs'>
+	<classes>
+		<action sprite='meenah' class='meulinTalk1' command='talk' name='Parle à Meulin.'>
+      <args>
+      @meenah_idle MEENAH: lu meu
+      @meulin_happier MEULIN: (=｀ω´=) &lt; 33333333333 !!!!!!!!!
+      @meulin_happiertalk:#EM#OH#G33 MEULIN: (^・ω・^ ) &lt; GOMGOMGOGOMGOGMMGOMGOMGOGMOGMOGMOG. MOG !!!
+      @meenah_idle MEENAH: wow leijon
+      @meenah_talk MEENAH: tes ardeurs
+      @meenah_talk MEENAH: clam les de ce pas
+      @meulin_worry MEULIN: (^・x・^) &lt; NON.
+      @meulin_talk MEULIN: (=^･^=) &lt; JE NE LES CLAMERAI PAS.
+      @meulin_talk2 MEULIN: ヽ(=^･ω･^=)丿 &lt; ELLES RESTERONT CHALEUREUSEMENT ET JOYEUSEMENT EXCIT33S, PARCE QUE, JE LE REPETE :
+      @meulin_happier MEULIN: (^･o･^)ﾉ &lt; MOG.
+      @meenah_idle MEENAH: mog
+      @meulin_talk MEULIN: (=^･^=) &lt; MOG, M33NAH.
+      @meulin_happier:#:33 MEULIN: ~(=^‥^)ノ &lt; _MOG_ !!!!!!!!!
+      @meenah_annoyed MEENAH: jai rien pige
+      @meulin_happy:#SAUF-SI-ON-L-EPELE-CORRECTEMENT MEULIN: (^./_.^)ﾉ &lt; M33NAH. IL N’Y A RIEN DE PLUS SIMPLE QUE MOG.
+      @meenah_annoyedtalk MEENAH: au diable mog
+      @meenah_talk MEENAH: oh attends tu veux dire omg
+      @meulin_oops MEULIN: (=^･ω･^=) &lt; (=^-ω-^=)
+      @meenah_annoyed MEENAH: au diable cette merde aussi
+      @meenah_annoyed MEENAH: je sais que tu ne peux physiquement pas moderer le volume de ta voix suraigue de fangirl hysterique mais essaye de baisser dun thon
+      @meenah_annoyed MEENAH: soit juste normalement excitee pour une fois
+      @meulin_wut MEULIN: (^./_.^)
+      @meenah_idle MEENAH: ou
+      @meenah_talk MEENAH: devraisje dire
+      @meenah_happy:#3;) MEENAH: "normiaulement"
+      @meulin_happier:#TELLEMENT-DE-33 MEULIN: (=^ω^=) &lt; 333333333333333333333333333333333 !!!!!!!!!
+      @meulin_happiertalk MEULIN: (^･o･^) &lt; M33NAH TU M’AS T333333333333LLEMENT MANQU33 ! POURQUOI N’AVONS NOUS JAMAIS TRAINE ENSEMBLE QUAND NOUS ETIONS VIVANTES ???
+      @meulin_worrytalk MEULIN: (=^‥^=) &lt; J’AI EU TELLEMENT DE TEMPS POUR Y REFLECHIR ET CA FAIT PARTIE DE CE QUE JE REGRETTE LE PUCE.
+      @meenah_talk MEENAH: cetait probablement parce que tu ne maimais pas beaucoup
+      @meenah_talk MEENAH: mais cest rien cetait pareil pour les autres
+      @meulin_talk2:#TU-ETAIS-AU-CENTRE-DE-MES-PLUS-BEAUX-SHIPS-! MEULIN: (=^･ｪ･^=) &lt; QUOIIII ?! C’EST FAUX ! JE SUIS SURE QUE JE T’AIMAIS BIEN ! NON ?
+      @meenah_talk MEENAH: je veux dire que jai essaye de te tuer plusieurs fois
+      @meulin_wut MEULIN: (^・x・^) &lt; AH BON ? JE NE ME SOUVIENS PAS DE CA...
+      @meenah_talk MEENAH: leau a coule sous les ponts je suppose
+      @meulin_idle MEULIN:  (^･o･^) &lt; OUI !!!
+      @meulin_worrytalk MEULIN: (^./_.^)ﾉ  &lt; MAIS, EUH, SI TU AS ESSAYE DE ME TUER, CA NE DEVRAIT PAS ETRE MIA QUI DEVRAIT TE DIRE CA ?
+      @meenah_idle MEENAH: ...
+      @meenah_talk:#je-ten-prie-attise-ces-ardeurs MEENAH: lejiji pourquoi est ce que tu la fermerais pas et que tu recommencais a etre toute excitee de me voir
+      @meulin_happier MEULIN: (=ＴェＴ=)  &lt; 3333333333333333333333333333333333333333333 !!!!!!!!!
+      @meulin_mime4~meme1  
+      @meulin_mime3~meme2  
+      @meulin_mime2~meme3  
+      @meenah_annoyedtalk MEENAH: pourrait on se calmer sur les mimes merdiques
+      @meenah_annoyedtalk:#litteralement-la-pire-forme-de-communication-du-monde MEENAH: serieusement je pige pas la moitie de ce que tu dis a chaque fois
+      @meulin_talk:#"J’T’AI-EUE"#!!!#COMME-UN-POISSON-!#REGARDE-JE-SUIS-TON-AMIE-!!! MEULIN: (=^･ω･^=) &lt; ON DEVRAIT RATTRAPER LE TEMPS PERDU MAINTENANT QUE JE TE TIENS. SI TU SAVAIS TOUT CE QUE TU AS MANQUE PENDANT QUE TU N’ETAIS PLUS LA !
+      @meenah_idle MEENAH: vraiment
+      @meenah_talk MEENAH: pour etre honnete ca me semble assez improbabulle
+      @meenah_annoyedtalk:#meme-celles-ou-jetais-pas-en-train-d-”etre-moi” MEENAH: timagines meme pas toutes les conversations ennuyeuses dans lesquelles je me suis embourbee avec des moulins a paroles comme toi
+      @meulin_happy:#L-ETERNITE-A-SEULEMENT-RONFORCE-MON-AMOUR-POUR-LES-JEUX-DE-MOT-DE-CHAT-!!!#:33 MEULIN: (=^･^=) &lt; SI SI JE T’ASSURE. NOUS AVONS TOUS TRAVERSE BEAUCOUP DE CHOSES DEPUIS QUE NOUS SOMMES MORTS. JE CROIS QUE NOUS AVONS FAIT BEAUCOUP DE PROGRES POUR REGLER NOS PROBLEMES PERSONNELS ET POUR METTRE DE COTE NOS DIFFOURRURENCES.
+      @meenah_talk MEENAH: mais tas pas lair davoir passe beaucoup de temps a travailler sur tes competences au combat
+      @meenah_annoyedtalk MEENAH: vous vous rendez tous compte que vous risquez de mourir ENCORE hein ?
+      @meulin_happier MEULIN: (=^･ｪ･^=) &lt; ET LE SHIP !!!!!!!!!
+      @meulin_happiertalk MEULIN: ＼(=^‥^)// &lt; OMG M33NAH, LE SHIIIIIIIIIP ! (=；ェ；=)  ヾ(=ﾟ･ﾟ=)ﾉ  (^・ω・^ ) 
+      @meulin_happiertalk MEULIN: (^・ω・^ ) &lt; TU NE _CROIRAS_ MEME PAS QUI S’EST MIS ENSEMBLE AU FIL DES REVOLUTIONS. ET LES QUADRANTS ! LES QUADRANTS QU’ILS ONT FORMES… TU VAS _HALLUCINER_.
+      @meulin_oops:#NE-PEUX-PAS#JE... MEULIN: (=^･^=) &lt; JE NE PENSE PAS POUVOIR TE CONFIER COMBIEN… JE…
+      @meulin_worry:#NON#CA-SUFFIT MEULIN: (^・x・^) &lt; JE NE PEUX PAS.
+      @meulin_talk2:#PARFAITEMENT-INCAPABLE MEULIN: └(=^‥^=)┐ &lt; JE SUIS ABSOLUMENT INCAPABLE DE FAIRE CA MAINTENANT.
+      @meenah_wut2 MEENAH: 38|
+      @meulin_worrytalk MEULIN: (=；ェ；=)  &lt; TU NE COMPRENDS PAS, M33NAH. LES SENTIMENTS.
+      @meulin_happiertalk:#LES-MIMES-ARRIVENT-!!! MEULIN: (=ＴωＴ=) &lt; LES SENTIM33333333NTS !!!!!!!!!
+      @meulin_mime3~meme4  
+      @meulin_mime2~meme5  
+      @meulin_mime4~meme6  
+      @meenah_talk MEENAH: jetais sure que cette conversation allait devier sur des potins a propos de qui a baise qui
+      @meenah_talk:#voila-ma-solution#vous-avez-tous-des-telephones-portables-non MEENAH: tiens moi au courant si tu veux parler de choses vraiment interessantes un de ces quatres
+      @meenah_talk MEENAH: bon vent a toi meumix
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='meenah' class='meulinTalk2' command='talk' name='Demande à Meulin de te rejoindre.'>
+      <args>
+      @meenah_idle MEENAH: alors dis moi
+      @meenah_talk MEENAH: quelle est exactement la raison de merde pour laquelle tu peux pas te joindre a moi pour combattre lord vilain
+      @meulin_wut MEULIN: (^./_.^) &lt; TU VEUX QUE JE COMBATTE _CE GARS_ AVEC TOI ???
+      @meulin_worrytalk MEULIN: (^･o･^) &lt; OH MAIS JE NE CROIS PAS QUE CE SOIT FAISABLE...
+      @meenah_annoyed MEENAH: saaaaaaans blague
+      @meulin_talk2 MEULIN: (=^‥^=) &lt; CE N’EST PAS QUE JE M’EN FICHE, MAIS J’AI JUSTE TELLEMENT DE PELOTES DE LAINE DANS LES AIRS EN CE MIAULEMENT.
+      @meulin_happy MEULIN: ＼(=^‥^)// &lt; TELLEMENT DE SHIPS POTENTIELS AVEC LESQUELS JE DOIS JONGLER. LE TRAVAIL D’UNE ELABORATRICE DE SHIPS POTENTIELS N’EST JAMAIS TERMINET.
+      @meenah_talk MEENAH: ca na vraiment rien dun travail a responsabilites
+      @meulin_talk MEULIN: (=^･ｪ･^=) &lt; JE NE VEUX PAS QUE TU PENSES QUE JE M’EN LAVE LES PATTES DE REJOINDRE TON COMBAT, MAIS JE PENSE JUSTE QUE JE NE SERAIS PAS TRES UTILE !
+      @meulin_happy MEULIN: ~(=^‥^)ノ &lt; D’AILLEURS, “S’EN LAVER LES PATTES” ETAIT UN JEU DE MOTS DE CHAT SUBTIL. 
+      @meenah_talk MEENAH: jsais pas ca sonar comme si tu ten battais la raie de tout ce qui touche pas au shipping et a dire des trucs de poissonchat
+      @meenah_happytalk:#en-plus#'raie'-est-un-poisson#et-'poissonchat'-aussi-tss MEENAH: dailleurs "sonar" etait un subtil jeu de mots qui se rapporte a locean
+      @meulin_talk MEULIN: (^・ω・^ )  &lt; OH ALL33333333Z M33NAH, TU NE VEUX PAS JUSTE TE POSER UN PEU AVANT DE RETOURNER A TON PENIBLE PORTE-A-PORTE ?
+      @meulin_talk MEULIN: (^･o･^) &lt; J’AI ENTENDU DIRE QUE TU AVAIS BEAUCOUP D’INTERET POUR L’ANCETRE DE KANKRI. 
+      @meenah_wut MEENAH: quoi
+      @meulin_happiertalk:#HMMM????????? MEULIN: ヽ(^‥^=ゞ) &lt; ALORS, M33NAH ? EST-CE QUE C’EST VRAI ?
+      @meenah_annoyedtalk MEENAH: meme si cetait vrai
+      @meenah_angry MEENAH: et par la je veux dire que ca ne LEST PAS      
+      @meenah_annoyedtalk:#pas-entendre-litteralement#avec-tes-oreilles#tu-vois-ce-que-je-veux-dire MEENAH: comment diable aurais tu pu deja entendre une chose pareille
+      @meulin_laugh MEULIN: (=^ω^=) &lt; H3333333 ! C’EST VRAI ! J’EN ETAIS SURE !!!!!!!!!
+      @meulin_dies:#*EST-MORTE* MEULIN: (=ｘェｘ=) &lt; _MEURT_ 
+      @meenah_annoyed MEENAH: oui fais ca
+      @meulin_idle MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; TU VEUX QUE JE T’ARRANGES UN COUP AVEC LUI ? AVANT QUE TU DISES NON, JE T'EXHORTE DE NE PAS SOUS ESTIMER LES POUVOIR DE MIA SORCELLERIE ROMANTIQUE. 
+      @meulin_happy MEULIN: (^･o･^)ﾉ &lt; TU AS ETE HORS JEU PENDANTLONGTEMPS, ALORS TU N’AS PAS ID33 DU GENRE DE MIRACLES QUI ONT ETE ACCOMPLIS PAR LA MAGE DU COEUR !
+      @meulin_talk2 MEULIN: (=^-ω-^=) &lt; MAINTENANT, AVANT QUE JE FASSE MARCHER MA MAGIE, IL FAUT METTRE QUELQUE CHOSE AU CLAIR. ASPIRES-TU A DU ROUGE OU DU NOIR ?
+      @meulin_wink MEULIN: (=ＴωＴ=) &lt; JE DEMANDE UNIQUEMENT POUR ETRE ABSOLUMENT CERTAINE, MAIS JE N’AI ABSOLUMENT AUCUN DOUTE LA DESSUS.  QUELQU’UN VIENT DE CRAQUER POUR UN KANKRI PLUS JEUNE ET BRUYANT, HMMMMMMMMM ?
+      @meenah_idle MEENAH: leijon
+      @meenah_talk MEENAH: est ce que tu lis sur mes levres
+      @meenah_talk MEENAH: fais comme si tu pouvais entendre ce que je dis si fort que ca ferait souffrir tes oreilles de chat
+      @meenah_talk MEENAH: taaaaaa gueuuuuuuleeeeee
+      @meulin_oops MEULIN:  (^･ω･^)
+      @meenah_annoyedtalk:#branchie#&lt;&lt;voila-comment-on-fait-des-fish-pun#oh-oui MEENAH: ne me branchie avec personne ok
+      @meenah_annoyedtalk MEENAH: garde ca pour tes friendfics
+      @meenah_angrytalk MEENAH: ecris sur nous qui faisons des trucs ou n’importe quoi, mais TA GUEULE
+      @meulin_idle MEULIN: (^･o･^) &lt; OHHH. HE BIEN. HEUMMM.
+      @meulin_happiertalk MEULIN: (=^･^=) &lt; J’AI UNE ID33 _GENIALE_ POUR CETTE FIC.
+      @meulin_happy MEULIN: ~(=^‥^)ノ &lt; MAIS NE T’INQUIETE PATTE, MA REGLE DE CONDUITE A PROPOS D’UN MATERIEL SI LICENCIEUX EST LA MEME QU’ELLE A TOUJOURS ETE. JE NE LE MONTRERAI A PERSONNE AVANT DE L’AVOIR MONTRE A TOI ET AU PLUS JEUNE VANTAS, ET QUE VOUS L’AYEZ TOUS DEUX APPROUVE, C’EST PROMINET !!!
+      @meenah_creepytalk:#ceinture-avec-une-eblouissante-sangle-fuschia-et-une-solide-boucle-en-or MEENAH: genial une autre conversation inutile a ma ceinture !
+      @meenah_idle MEENAH: IL -EST T-EMPS D-E BONDIR )(ORS DICI
+      <!--  -->
+      </args>
+</action>
+
+<action sprite='kurloz' class='meulinTalk3' command='talk' name='Parle à Meulin'>
+      <args>
+      @kurloz_bye KURLOZ: :o) 
+      @meulin_wut MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; PFIOU...
+      @meulin_wut MEULIN: (^./_.^) &lt; KURZORZ MIA TETE EST TOUTE EMBROUILL33.
+      @meulin_wut:#EST-CE-QUON-VIENT-JUSTE-DE-SE-PRENDRE-DE-LHERBE-A-CHAT-FRELAT33-OU-QUOI-? MEULIN: (^./_.^) &lt; QU’EST-CE QUI VIENT DE SE PASSER ? JE NE ME SOUVIENS MEME PAS D’ETRE VENUE JUSQU’ICI.
+      @kurloz_mime1~kurmeme6:#:o)  
+      @meulin_laugh MEULIN: (=^ω^=) &lt; H33H33H33 !!! TU AS RAISON, JE NE DEVRAIS PATTE M’INQUIETER DE CHAT.
+      @meulin_mime4~meme15  
+      @kurloz_mime2~kurmeme7:#:o)  
+      @meulin_mime5~meme16  
+      @kurloz_mime3~kurmeme8:#:o)  
+      @meulin_mime3~meme17  
+      @kurloz_bye KURLOZ: :o) 
+      @meulin_wut MEULIN: ~(=^‥^) &lt; QU’EST-CE QU’IL Y A ? TU DOIS ALLER FAIRE UN TRUC ?
+      @meulin_happy MEULIN: (=^-ω-^=) &lt; OKIDOKI, AMUSE-TOI BIEN !
+      @kurloz_smile~kurmeme9 
+      <!--  -->
+      </args>
+</action>
+
+	</classes>
+</sburb>
