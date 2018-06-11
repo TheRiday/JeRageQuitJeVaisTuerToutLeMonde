@@ -142,7 +142,7 @@
       </args>
 </action>
 
-<action sprite='karkat' class='meenahTalk4' command='talk' name='Talk to Meenah.'>
+<action sprite='karkat' class='meenahTalk4' command='talk' name='Parle à Meenah.'>
       <args>
       @karkat_idle KARKAT: COMME JE LE DISAIS, FAIS COMME CHEZ TOI.      
       @karkat_talk KARKAT: LIBRE A TOI DE TRAINER AVEC MON LUSUS. NEANMOINS JE DEVRAIS T’AVERTIR, IL N’A JAMAIS RENCONTRE UN AUTRE ENFANT QU’IL N’AIT AU MOINS VAGUEMENT ESSAYE DE DEVORER.
@@ -150,7 +150,7 @@
       </args>
 </action>
 
-<action sprite='terezi' class='meenahTalk5' command='talk' name='Talk to Meenah.'>
+<action sprite='terezi' class='meenahTalk5' command='talk' name='Parle à Meenah.'>
       <args>
       @terezi_idle TEREZI: OH... H3Y
       @terezi_idle TEREZI: C3ST TO1
