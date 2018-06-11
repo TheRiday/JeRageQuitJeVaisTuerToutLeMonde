@@ -118,20 +118,20 @@
   	</character>
   	
   	<sprite class='chest8' name='sixthRoomChest1' x='970' y='211'>
-			<action command='openChest' name='Open.'>
+			<action command='openChest' name='Ouvre.'>
 		  	<args>sixthRoomChest1,item1,
-		 	 	@! You got a STABBING CANE!
-				@! It would be really unfortunate to be blind and walk around without having a reliable instrument to help you stab where you're going.
+		 	 	@! Vous trouvez une CANNE POIGNARDANTE !
+				@! Il serait dommage d'être aveugle et d’avoir à se déplacer sans avoir un instrument de confiance pour vous aider à poignarder là où vous allez.
 
 		 	 </args>
 		  </action>
   	</sprite>
   	
   	<sprite class='chest8' name='sixthRoomChest2' x='956' y='1306'>
-			<action command='openChest' name='Open.'>
+			<action command='openChest' name='Ouvre.'>
 		  	<args>sixthRoomChest2,item2,
-		    @! You got a sack full of EMBEZZLED BEETLES!
-				@! It is the absolute perfect currency for bribing corrupt prosecutors when you find yourself in the hot seat with the law. Their greedy snouts simply cannot resist. Just make sure the terrifying brainless monster judge doesn't catch you in the act! You have to wait for His Tyranny to be distracted by something besides the judicial proceedings. This is an occurrence that is far from infrequent.
+		    @! Vous trouvez un sac rempli de SCARABÉES DE CONTREBANDE ILLICITES !
+				@! C’est la devise absolument parfaite pour les pots-de-vin des procureurs quand on se retrouve mis sur la sellette par la loi. Leurs museaux avides ne peuvent y résister. Soyez juste sûr que les terrifiants monstres sans cervelle ne vous attrappent pas quand vous êtes en train de le faire. Vous devez attendre que Sa Tyrannie soit distraite par quelque chose d’autre que les affaires de justice. Ce qui en l'occurrence est loin d'être rare.
 				</args>
 		  </action>
   	</sprite>
