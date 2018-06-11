@@ -13,7 +13,7 @@
 			<action class='expoTalk2'/>
 			<action class='expoTalk3'/>
 			<action class='expoTalk4'/>
-			<action command='removeOverlay' name='Peace out.'>
+			<action command='removeOverlay' name='*Ciao.'>
 				<args>peanuts</args>
 			</action>
 		</args>
@@ -56,10 +56,10 @@
   			<action command='goBack'>
   				<args>meenah</args>
   				<action command='talk'>
-  					<args>@! This leads to the end of the game. Are you sure you're done here?</args>
+  					<args>@! Ce chemin mène à la fin du jeu. Êtes-vous sûr d'avoir fini ici ?</args>
   					<action command='presentActions'>
   						<args>
-  							<action command='fadeOut' name='Yes.'>
+  							<action command='fadeOut' name='Oui.'>
 									<action command='presentActions'>
 										<args>
 											<action command='loadStateFile' name='Start over.'>
@@ -68,7 +68,7 @@
 										</args>
 									</action>
 								</action>
-  							<action command='cancel' name='No.'/>
+  							<action command='cancel' name='Non.'/>
   						</args>
   					</action>
   				</action>
@@ -82,7 +82,7 @@
   	</triggers>
   	
   	<sprite name='expoStand' x='609' y='243' width='92' height='78'>
-   		<action command='addOverlay' name='Talk.'>
+   		<action command='addOverlay' name='Parle.'>
    			<args>peanuts</args>
    			<action class='peanutActions'/>
    		</action>
