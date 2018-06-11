@@ -53,7 +53,7 @@
   	</spritebutton>
   	<spritebutton name='helpButton' x='591' y='9' width='54' height='63' sheet='helpControl'>
   		<action command='talk' soft='true'>
-  			<args>@! Use the arrow keys or WASD to move, and space to interact.</args>
+  			<args>@! Utilisez les flèches directionnelles ou WASD pour bouger, et espace pour interagir.</args>
   		</action>
   	</spritebutton>
   	<spritebutton name='saveButton' x='558' y='18' sheet='saveControl'>
