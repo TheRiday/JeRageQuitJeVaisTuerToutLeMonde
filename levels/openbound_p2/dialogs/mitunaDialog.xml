@@ -107,7 +107,7 @@
 </args>
 </action>
 
-<action sprite='cronus' class='mitunaTalk5' command='talk' name='Talk to Mituna.'><args>
+<action sprite='cronus' class='mitunaTalk5' command='talk' name='Parle à Mituna.'><args>
       @cronus_talk CRONUS: oh, j’allais oublier. jai bosse sur une nouvwelle chanson je pense que tu...
       @mituna_agitated%alttextbox_4chan MITUNA: 74 PU741N D3 MU51QU3 C357 D3 L4 M3RD3 3T J3 T3 D373573
       @cronus_surprised CRONUS: vwowv, hahaha. je lai merite 
