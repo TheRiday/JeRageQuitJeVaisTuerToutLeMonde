@@ -13,7 +13,7 @@
 			<action class='expoTalk2'/>
 			<action class='expoTalk3'/>
 			<action class='expoTalk4'/>
-			<action command='removeOverlay' name='*Ciao.'>
+			<action command='removeOverlay' name='Ciao.'>
 				<args>peanuts</args>
 			</action>
 		</args>
