@@ -606,7 +606,7 @@
 				</args>
 				<action command='addAction'>
   				<args>megaDoor,
-  					<action name='Utilises la clef de trèfle.' command='removeAction'>
+  					<action name='Utilise la clef de trèfle.' command='removeAction'>
   						<args>megaDoor,Utilise la clef de trèfle.</args>
   						<action command='setGameState'>
   							<args>clubKeyUsed,true</args>
