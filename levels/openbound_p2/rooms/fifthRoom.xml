@@ -44,8 +44,8 @@
   		<action class='karkatTalk1'>
   			<action command='presentActions'>
   				<args>
-  					<action class='beKarkat' name='Yes.'/>
-  					<action command='cancel' name='No.'/>
+  					<action class='beKarkat' name='Oui.'/>
+  					<action command='cancel' name='Non.'/>
   				</args>
   			</action>
   		</action>
@@ -56,8 +56,8 @@
   		<animation sheet='crabdadIdle' x='-64' y='-158' length='4' frameInterval='8'/>
   		<action name='Examine.' command='talk'>
   			<args>
-  			@! GRUUUUUMMBLE
-				@!:#crab-dad Looks like SOMEONE'S custodian is in a permanently surly mood today, as well as all other days.
+  			@! GROOOOOOOGNE
+				@!:#papacrabe On dirait bien que le gardien de QUELQU'UN est d’une humeur noire aujourd’hui, comme tous les autres jours.
 				</args>
   		</action>
   	</sprite>
