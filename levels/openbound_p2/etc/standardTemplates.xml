@@ -55,7 +55,7 @@
   	<action class='notForYou' command='goBack'>
 			<args>char</args>
 			<action command='talk'>
-				<args>@!:#nice-try Where do you think YOU'RE going! This is Meenah's interactive quest through the afterlife. You can only leave this area if you're being her!</args>
+				<args>@!:#bien-tenté Où est-ce que VOUS pensez aller ?! C’est la quête interactive dans l’au-delà de Meenah. Vous ne pouvez quitter cet endroit que si vous l’incarnez !</args>
 			</action>
 		</action>
 	  
