@@ -502,7 +502,7 @@
 			<action command='openChest' name='Ouvre.'>
 					<args>firstRoomChest1,obj01,
 						@! Vous trouvez une BOISSON ALTERNIENNE SANS ALCOOL ! 
-						@! Vous n'êtes pas trop à fond sur l'histoire alternienne, mais apparemment l'impératrice en aurait eu tellement marre de l’emprise des subjongleurs sur le marché du soda qu’elle aurait créé une boisson encore plus chargée en sucre que le vil élixir. Les Noblesangs ont cependant considéré ces rapports marketing comme des mensonges blasphématoires. Et ils avaient raison. Le breuvage contenait en réalité zéro calorie, ce qu’elle avait secrètement mandaté pour pouvoir garder une fine ligne. Malgré cela, tous les serfsangs sifflaient les cannettes par milliard sans réfléchir, pendant que la Condesce raflait tout l’argent.
+						@! Vous n'êtes pas trop à fond sur l'histoire alternienne, mais apparemment l'impératrice en aurait eu tellement marre de l’emprise des subjongleurs sur le marché du soda qu’elle aurait créé une boisson encore plus chargée en sucre que le vil élixir. Les Noblesangs ont cependant considéré ces rapports marketing comme des mensonges blasphématoires. Et ils avaient raison. Le breuvage contenait en réalité zéro calorie, ce qu’elle avait secrètement mandaté pour pouvoir garder une fine ligne. Malgré cela, tous les serfsangs sifflaient les canettes par milliards sans réfléchir, pendant que la Condesce raflait tout l’argent.
 						@! Si quelqu’un vous avait effectivement raconté cette histoire, vous auriez passé les dix prochaines minutes à fangirler au sol.
 					</args>
 			</action>
