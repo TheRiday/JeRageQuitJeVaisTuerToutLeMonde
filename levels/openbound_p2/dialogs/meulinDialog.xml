@@ -25,7 +25,7 @@
       @meenah_annoyed MEENAH: soit juste normalement excitee pour une fois
       @meulin_wut MEULIN: (^./_.^)
       @meenah_idle MEENAH: ou
-      @meenah_talk MEENAH: devraisje dire
+      @meenah_talk MEENAH: devrais je dire
       @meenah_happy:#3;) MEENAH: "normiaulement"
       @meulin_happier:#TELLEMENT-DE-33 MEULIN: (=^ω^=) &lt; 333333333333333333333333333333333 !!!!!!!!!
       @meulin_happiertalk MEULIN: (^･o･^) &lt; M33NAH TU M’AS T333333333333LLEMENT MANQU33 ! POURQUOI N’AVONS NOUS JAMAIS TRAINE ENSEMBLE QUAND NOUS ETIONS VIVANTES ???
@@ -72,7 +72,7 @@
       </args>
 </action>
 
-<action sprite='meenah' class='meulinTalk2' command='talk' name='Demande à Meulin de te rejoindre.'>
+<action sprite='meenah' class='meulinTalk2' command='talk' name='Demande à Meulin de se joindre à toi.'>
       <args>
       @meenah_idle MEENAH: alors dis moi
       @meenah_talk MEENAH: quelle est exactement la raison de merde pour laquelle tu peux pas te joindre a moi pour combattre lord vilain
@@ -97,7 +97,7 @@
       @meulin_dies:#*EST-MORTE* MEULIN: (=ｘェｘ=) &lt; _MEURT_ 
       @meenah_annoyed MEENAH: oui fais ca
       @meulin_idle MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; TU VEUX QUE JE T’ARRANGES UN COUP AVEC LUI ? AVANT QUE TU DISES NON, JE T'EXHORTE DE NE PAS SOUS ESTIMER LES POUVOIR DE MIA SORCELLERIE ROMANTIQUE. 
-      @meulin_happy MEULIN: (^･o･^)ﾉ &lt; TU AS ETE HORS JEU PENDANTLONGTEMPS, ALORS TU N’AS PAS ID33 DU GENRE DE MIRACLES QUI ONT ETE ACCOMPLIS PAR LA MAGE DU COEUR !
+      @meulin_happy MEULIN: (^･o･^)ﾉ &lt; TU AS ETE HORS JEU PENDANT LONGTEMPS, ALORS TU N’AS PAS ID33 DU GENRE DE MIRACLES QUI ONT ETE ACCOMPLIS PAR LA MAGE DU COEUR !
       @meulin_talk2 MEULIN: (=^-ω-^=) &lt; MAINTENANT, AVANT QUE JE FASSE MARCHER MA MAGIE, IL FAUT METTRE QUELQUE CHOSE AU CLAIR. ASPIRES-TU A DU ROUGE OU DU NOIR ?
       @meulin_wink MEULIN: (=ＴωＴ=) &lt; JE DEMANDE UNIQUEMENT POUR ETRE ABSOLUMENT CERTAINE, MAIS JE N’AI ABSOLUMENT AUCUN DOUTE LA DESSUS.  QUELQU’UN VIENT DE CRAQUER POUR UN KANKRI PLUS JEUNE ET BRUYANT, HMMMMMMMMM ?
       @meenah_idle MEENAH: leijon
@@ -122,7 +122,7 @@
       @kurloz_bye KURLOZ: :o) 
       @meulin_wut MEULIN: ヾ(=ﾟ･ﾟ=)ﾉ &lt; PFIOU...
       @meulin_wut MEULIN: (^./_.^) &lt; KURZORZ MIA TETE EST TOUTE EMBROUILL33.
-      @meulin_wut:#EST-CE-QUON-VIENT-JUSTE-DE-SE-PRENDRE-DE-LHERBE-A-CHAT-FRELAT33-OU-QUOI-? MEULIN: (^./_.^) &lt; QU’EST-CE QUI VIENT DE SE PASSER ? JE NE ME SOUVIENS MEME PAS D’ETRE VENUE JUSQU’ICI.
+      @meulin_wut:#EST-CE-QUON-VIENT-JUSTE-DE-SE-PRENDRE-DE-L'HERBE-A-CHAT-FRELAT33-OU-QUOI-? MEULIN: (^./_.^) &lt; QU’EST-CE QUI VIENT DE SE PASSER ? JE NE ME SOUVIENS MEME PAS D’ETRE VENUE JUSQU’ICI.
       @kurloz_mime1~kurmeme6:#:o)  
       @meulin_laugh MEULIN: (=^ω^=) &lt; H33H33H33 !!! TU AS RAISON, JE NE DEVRAIS PATTE M’INQUIETER DE CHAT.
       @meulin_mime4~meme15  
