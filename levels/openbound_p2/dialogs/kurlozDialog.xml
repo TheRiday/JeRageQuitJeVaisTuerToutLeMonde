@@ -17,7 +17,7 @@
       </args>
 		</action>
 
-		<action sprite='meenah' class='kurlozTalk2' command='talk' name='Demande à Kurloz de te rejoindre.'>
+		<action sprite='meenah' class='kurlozTalk2' command='talk' name='Demande à Kurloz de se joindre à toi.'>
       <args>
       @meenah_talk MEENAH: bon je suppose que jaimerais que tu rejoignes mon armee
       @meenah_idle MEENAH: peut etre
