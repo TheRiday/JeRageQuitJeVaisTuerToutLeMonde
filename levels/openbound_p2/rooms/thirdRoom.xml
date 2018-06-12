@@ -270,7 +270,7 @@
   		<animation sheet='catLusus' x='-80' y='-60' length='12' frameInterval='4'/>
   		<action command='talk' name='Examine.'>
 						<args>
-						@!:#mamanchat mrrrrrr….
+						@!:#mamanchat mrrrrrr…
 						<!--  -->
 						</args>
 			</action>
@@ -399,7 +399,7 @@
   	<sprite class='chest3' name='thirdRoomChest14' x='288' y='543'>
 			 <action command='openChest' name='Ouvre.'>
 		  <args>thirdRoomChest14,obj14,
-		    @! Vous trouvez un POT DE THÉ.
+		    @! Vous trouvez une THÉIÈRE.
 		    @! mmmm
 		    @!:#:3 chamiaoumile
 		  </args>
